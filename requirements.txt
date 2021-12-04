@@ -15,39 +15,39 @@ click==6.7                # via flask
 coverage==4.5.1           # via pytest-cov
 cython==0.25.2
 docutils==0.14            # via botocore
-flask-cors==3.0.2
+flask-cors==3.0.9
 flask-login==0.3.2
 flask-mail==0.9.1
 flask-principal==0.4.0
 flask-restful==0.3.5
 flask-security==1.7.5
 flask-wtf==0.13.1
-flask==0.11.1
-gunicorn==19.7.1
+flask==0.12.3
+gunicorn==19.10.0
 idna==2.5
 itsdangerous==0.24
-jinja2==2.8
+jinja2==2.11.3
 jmespath==0.9.3
 jsl==0.2.4
 markupsafe==0.23
 more-itertools==4.1.0     # via pytest
-numpy==1.14.2             # via pandas
+numpy==1.16.3             # via pandas
 pandas==0.19.2
-passlib==1.6.5
+passlib==1.7.3
 pluggy==0.6.0             # via pytest
-py==1.5.3                 # via pytest
+py==1.10.0                 # via pytest
 pycrypto==2.6.1
-pyjwt==1.5.0
+pyjwt==1.5.1
 pytest-cov==2.5.1
 pytest==3.5.0
 python-dateutil==2.6.1
 pytz==2016.7
 requests-futures==0.9.7
-requests==2.18.1
+requests==2.20
 s3transfer==0.1.10
 semantic-version==2.6.0
 six==1.10.0
-urllib3==1.21.1
-werkzeug==0.12.2
-wtforms==2.1
+urllib3==1.26.5
+werkzeug==0.15.3
+wtforms==3.0.0a1
 
