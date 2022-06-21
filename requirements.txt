@@ -31,7 +31,7 @@ jmespath==0.9.3
 jsl==0.2.4
 markupsafe==0.23
 more-itertools==4.1.0     # via pytest
-numpy==1.14.2             # via pandas
+numpy==1.22.0             # via pandas
 pandas==0.19.2
 passlib==1.6.5
 pluggy==0.6.0             # via pytest
