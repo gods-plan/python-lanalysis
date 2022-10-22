@@ -22,11 +22,11 @@ flask-principal==0.4.0
 flask-restful==0.3.5
 flask-security==1.7.5
 flask-wtf==0.13.1
-flask==0.11.1
+flask==0.12.3
 gunicorn==19.7.1
 idna==2.5
 itsdangerous==0.24
-jinja2==2.8
+jinja2==2.11.3
 jmespath==0.9.3
 jsl==0.2.4
 markupsafe==0.23
@@ -48,6 +48,6 @@ s3transfer==0.1.10
 semantic-version==2.6.0
 six==1.10.0
 urllib3==1.21.1
-werkzeug==0.12.2
+werkzeug==0.15.3
 wtforms==2.1
 
