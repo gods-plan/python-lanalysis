@@ -33,7 +33,7 @@ markupsafe==0.23
 more-itertools==4.1.0     # via pytest
 numpy==1.14.2             # via pandas
 pandas==0.19.2
-passlib==1.6.5
+passlib==1.7.3
 pluggy==0.6.0             # via pytest
 py==1.5.3                 # via pytest
 pycrypto==2.6.1
