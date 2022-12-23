@@ -51,3 +51,4 @@ urllib3==1.21.1
 werkzeug==0.12.2
 wtforms==2.1
 
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
