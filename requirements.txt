@@ -9,7 +9,7 @@ attrs==17.4.0             # via pytest
 blinker==1.4              # via flask-mail, flask-principal
 boto3==1.4.6
 botocore==1.6.6
-certifi==2018.4.16        # via requests
+certifi==2023.7.22        # via requests
 chardet==3.0.4            # via requests
 click==6.7                # via flask
 coverage==4.5.1           # via pytest-cov
