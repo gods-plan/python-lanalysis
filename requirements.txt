@@ -8,7 +8,7 @@ aniso8601==3.0.0          # via flask-restful
 attrs==17.4.0             # via pytest
 blinker==1.4              # via flask-mail, flask-principal
 boto3==1.4.6
-botocore==1.6.6
+botocore==1.9.12
 certifi==2018.4.16        # via requests
 chardet==3.0.4            # via requests
 click==6.7                # via flask
